@@ -1,11 +1,6 @@
 // scripts.js
 // Excercise 10.2
 
-$(function(){
-    console.log('DOM loaded - you can have fun');
-});
-
-
 var span = $("span");
     span.each(function(index, element) {
 });
